@@ -32,7 +32,7 @@ Sworkit| ![](assets/c/us.png) | ![](assets/ionic.png) | Sport | [![](assets/appl
 TreeLee | ![](assets/c/de.png) | ![](assets/ionic.png) | Shopping | [![](assets/apple.png)](https://itunes.apple.com/de/app/treelee/id933913996?mt=8)      [![](assets/android.png)](https://play.google.com/store/apps/details?id=com.flyacts.treelee&hl=de)
 Ok! | ![](assets/c/de.png) | ? | Newspaper | [![](assets/android.png)](https://play.google.com/store/apps/details?id=air.de.ok_magazin.okdaily)
 Your Strategy Needs a Strategy | ![](assets/c/us.png) | ![](assets/ionic.png) | Game | [![](assets/apple.png)](https://itunes.apple.com/us/app/your-strategy-needs-a-strategy/id951248714?mt=8)       [![](assets/android.png)](https://play.google.com/store/apps/details?id=com.bcg.strategystyles.game)
-ZenMate VPN | ![](assets/c/de.png) | ? | Game | [![](assets/android.png)](https://play.google.com/store/apps/details?id=com.zenmate.android&hl=de)
+ZenMate VPN | ![](assets/c/de.png) | ? | Productivity | [![](assets/android.png)](https://play.google.com/store/apps/details?id=com.zenmate.android&hl=de)
 
 
 
