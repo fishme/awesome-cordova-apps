@@ -1,11 +1,13 @@
 # Cordova Apps
 Cordova is fantastic, you know it and me. So let's collect a list of fancy Cordova Apps. 
 
-Legend:
+**Legend:**<br>
+
+* ![](assets/ionic.png) [Ionic](ionicframework.com)
+* ![](assets/jquery.png) [jQuery](https://jquerymobile.com/)
 
 
-
-sort by name
+*sort by name*
 
 Name | Origin | Framework | Category | Store
 ------------ | ------------- | ------------- | ------------- | -------------
@@ -34,4 +36,4 @@ ZenMate VPN | ![](assets/c/de.png) | ? | Game | [![](assets/android.png)](https:
 
 
 
-
+list can be not complete
